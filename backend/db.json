@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Mac Pro",
+      "price": 120000.89
+    },
+    {
+      "id": 3,
+      "name": "S20+ via Postman",
+      "price": 5000.89
+    },
+    {
+      "name": "Geladeira",
+      "price": "1913.99",
+      "id": 4
+    }
+  ]
+}
